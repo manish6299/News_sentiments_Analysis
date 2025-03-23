@@ -1,0 +1,9 @@
+flask
+streamlit
+gtts
+nltk
+pandas
+textblob
+beautifulsoup4
+newspaper3k
+requests
